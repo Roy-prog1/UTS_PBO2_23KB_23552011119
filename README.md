@@ -7,11 +7,14 @@ Dosen Pengampu: Muhammad Ikhwan Fathulloh
 
 Profil
 Nama: Roy Elisa
+
 NIM: 23552011119
+
 Studi Kasus: Kasir Asuransi
 
 ----------------------------------------------------
 Judul Studi Kasus
+
 Kasir Asuransi
 
 ----------------------------------------------------
